@@ -1,0 +1,67 @@
+/* .makeStyles-input_phone_code_nation-37{
+    border-radius:20px;
+    background-color: aqua;
+    border:none;
+    border:1px solid red;
+} */
+/* .MuiTextField-root{
+    border:none;
+    background-color: aqua;
+    outline: none;
+    border-radius: 20px;
+} */
+.MuiOutlinedInput-root{
+    border: none;
+    outline: none;
+    /* background-color: aqua; */
+    /* padding-bottom:0!important; */
+    /* margin:0!important; */
+    /* margin-bottom:5px; */
+    border-radius: 30px!important;
+    width: 50px;
+    padding-bottom: 6px!important;
+    padding-top: 6px!important;
+
+} 
+.MuiOutlinedInput-root{
+    border-radius:30px!important;
+    width: 48px;;
+}
+.MuiOutlinedInput-inputAdornedEnd{
+   width: 300px!important;
+}
+
+.MuiAutocomplete-listbox{
+   
+}
+/* .MuiAutocomplete-option	{
+    width:'300%!important';
+    background-color: red;
+} */
+
+
+/* .MuiAutocomplete-root:focus :focus, .makeStyles-input_phone_code_nation-37:focus :focus, .MuiAutocomplete-hasClearIcon:focus , .MuiAutocomplete-hasPopupIcon:focus{
+    outline: none;
+    outline-width: 0;
+    outline-style: none;
+}
+.MuiAutocomplete-root , .makeStyles-input_phone_code_nation-37 , .MuiAutocomplete-hasClearIcon , .MuiAutocomplete-hasPopupIcon{
+    border-radius: 30px;
+
+}
+
+.MuiFormControl-root:focus ,.MuiTextField-root:focus,.MuiFormControl-fullWidth:focus{
+    outline: none;
+}
+.MuiFormControl-root ,.MuiTextField-root,.MuiFormControl-fullWidth{
+    border-radius: 30px;
+
+}
+#country-select-demo{
+    border-radius: 30px;
+
+}
+.MuiInputBase-root:focus, .MuiOutlinedInput-root:focus, .MuiAutocomplete-inputRoot:focus, .MuiInputBase-fullWidth:focus, .MuiInputBase-formControl:focus, .MuiInputBase-adornedEnd:focus, .MuiOutlinedInput-adornedEnd:focus{
+    outline: none;
+} */
+
